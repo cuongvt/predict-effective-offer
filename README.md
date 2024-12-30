@@ -5,6 +5,9 @@ This repository contains the code and analysis of the Starbucks Capstone Challen
 **The most effective delivery channels for each offer type**
 **The predict effective offer model**
 
+The detail analysis can be view on github (jupyter) or via blogspot
+https://cuongkin.blogspot.com/2024/12/analyzing-starbucks-promotion-effective.html
+
 
 **Data Sets:**
 The data is contained in three files:
